@@ -1,11 +1,17 @@
 .benefits {
+  padding: 50px 0;
   background: #1e1823;
 }
 .benefits-list {
+  display: flex;
+  justify-content: center;
+  gap: 88px;
 }
 .benefits-item {
+  width: 308px;
 }
 .benefits-subtitle {
+  margin-bottom: 18px;
   font-weight: 600;
   font-size: 18px;
   line-height: 1.33;
